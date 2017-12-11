@@ -13,5 +13,4 @@ const invert_negatives = number => {
 
 console.log(invert_negatives(-5))
 console.log(invert_negatives(4000))
-console.log(invert_negatives('puppies')
-)
+console.log(invert_negatives('puppies'))
